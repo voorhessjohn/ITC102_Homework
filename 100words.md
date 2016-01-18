@@ -1,6 +1,5 @@
 Sophia Allen
 
-*ITC 102 1/18/2016*
+100 words on Email/DNS
 
-*100 Words on Email/DNS*
 
