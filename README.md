@@ -1,4 +1,4 @@
-# ITC102practice
-Here's a repo to show that I know how to do it! 
+## ITC102 Homework
 
+###Here's where I'll post homework for ITC102
 
