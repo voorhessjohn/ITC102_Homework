@@ -22,3 +22,7 @@ Hi there! - thanks for sharing these instructions with the class!
 This is it... my little piece.
 
 This was sooo nice of you!
+
+***
+Hi Smallen, thanks for your help in sharing this repo. 
+***
