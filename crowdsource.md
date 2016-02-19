@@ -19,8 +19,8 @@
 + Minimum $20 Donation: Create your own challenge for the player, pay per time the player accomplishes the goal. 
 
 ###Deliverable:
-+Everyone that donates gets an email invitation to watch the game streaming live online, and their name in the thank you credits. -Ruth
-+Those that pledge at least the minimum amount will get a personalized card or email that features a screenshot of the game. 
-+Those that pledge three dollars or more above get the card/email plus a bumper sticker/decal.
-+Those that pledge ten dollars or more over the minimum get their name and message mentioned/read by the player(s) during the game. 
++ Everyone that donates gets an email invitation to watch the game streaming live online, and their name in the thank you credits. -Ruth
++ Those that pledge at least the minimum amount will get a personalized card or email that features a screenshot of the game. 
++ Those that pledge three dollars or more above get the card/email plus a bumper sticker/decal.
++ Those that pledge ten dollars or more over the minimum get their name and message mentioned/read by the player(s) during the game. 
 
