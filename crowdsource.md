@@ -3,8 +3,8 @@
 ##Penguin's Crowdfunding Idea: 
 + Purpose: Raise money for Nepal's earthquake relief organizations (specific organization tbd)  -Dev
 + Target Audience: Gamers, especially friends of the person(s) that volunteer to participate. 
-+ Idea: Host a gaming marathon, similar to  https://pledgeit.org/jessejames and https://desertbus.org/  -John/Tom/Andree
-  + People to pledge a dollar amount for every time a player saves the princess in Super Mario Brothers on the original NES in a certain time frame - but here’s the catch - it’s someone who is terrible at video games and has never saved the princes despite playing Mario Brothers for a long time.  It might be fun to watch someone go from being terrible at it to being boringly good in a day.  Technically, it can be beaten in as little as ~5mins. Maybe after a certain number of wins, the player has to play at some disadvantage, like one-handed.  Or maybe get bonus points for beating it blindfolded. I’ve seen someone beat the first two levels blindfolded. -John
++ Idea: Host a gaming marathon, similar to  https://pledgeit.org/jessejames and https://desertbus.org/  -**John**/Tom/Andree
+  + People to pledge a dollar amount for every time a player saves the princess in Super Mario Brothers on the original NES in a certain time frame - but here’s the catch - it’s someone who is terrible at video games and has never saved the princes despite playing Mario Brothers for a long time.  It might be fun to watch someone go from being terrible at it to being boringly good in a day.  Technically, it can be beaten in as little as ~5mins. Maybe after a certain number of wins, the player has to play at some disadvantage, like one-handed.  Or maybe get bonus points for beating it blindfolded. I’ve seen someone beat the first two levels blindfolded. -**JOHN**
 
 ###What needs to be done ahead of time?  
 + Pick a specific organization to donate to, get photos/materials to help promote the cause. 
